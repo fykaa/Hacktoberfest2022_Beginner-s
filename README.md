@@ -7,9 +7,9 @@ This repo's main purpose is to help newbies to complete the Hacktoberfest Challe
 
 2- Go to https://hacktoberfest.digitalocean.com and sign up for a new profile by providing authentication with Github.
 
-3- Then go to Then go to https://github.com/ScalantCommunity/Hacktoberfest2022_Beginner-s and click on "star" and "fork".
+3- Then go to Then go to https://github.com/ScalantCommunity/Scalant-First-pr and click on "star" and "fork".
 
-4- Now click on the "Programs" folder and click on "new file".
+4- Now You can "Upload" or "Push" Your Project on Repo.
 
 5- Type the name of the code with the proper extensions and then type the codekeyboard in the given area. For eg.- factorial.py
 
